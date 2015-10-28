@@ -1,11 +1,11 @@
 {
   "name"          : "backbone",
-  "version"       : "1.2.1",
+  "version"       : "1.2.3",
   "description"   : "Give your JS App some Backbone with Models, Views, Collections, and Events.",
   "keywords"      : ["model", "view", "controller", "router", "server", "client", "browser"],
   "repo"          : "jashkenas/backbone",
   "dependencies"  : {
-    "jashkenas/underscore"  : "*"
+    "jashkenas/underscore"  : ">=1.8.3"
   },
   "main"          : "backbone.js",
   "scripts"       : ["backbone.js"],
